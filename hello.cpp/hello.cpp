@@ -10,7 +10,7 @@ int main(int argc, const char * argv[])
     
     cout << " perimeter of a circle is: "<< perimeter << endl;
     cout << " area of a cirlce is: "<< area << endl;
-    
+    cout << "get rid of this " << endl; 
 
     return 0;
 }
